@@ -1,0 +1,10 @@
+TArea
+------
+obtener tarea
+leer instrucciones
+revisar material
+investigar material
+ejecutar lo solicitado
+guardar evidencias
+ordenar evidencias
+entregar tarea
