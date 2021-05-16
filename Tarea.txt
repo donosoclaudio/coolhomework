@@ -8,3 +8,5 @@ ejecutar lo solicitado
 guardar evidencias
 ordenar evidencias
 entregar tarea
+---------
+Se debe agregar revisión previa al envio
